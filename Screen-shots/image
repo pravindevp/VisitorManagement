@@ -1,0 +1,60 @@
+## Master Screens
+
+### Country Master
+
+![Country Master](Screen-shots/country_master.jpg)
+
+*Description*: This screenshot showcases the Country Master screen, which allows administrators to manage and maintain a list of countries in the system.
+
+### Company Master
+
+![Company Master](Screen-shots/company_master.jpg)
+
+*Description*: The Company Master screen, as shown in the screenshot, is used for managing company details and records. Administrators can add, edit, or delete company information.
+
+### State Master
+
+![State Master](Screen-shots/state_master.jpg)
+
+*Description*: Here, you can see the State Master screen. This screen enables the management of states or provinces within a country. Administrators can add, update, or remove state details.
+
+### Role Master
+
+![Role Master](Screen-shots/role_master.jpg)
+
+*Description*: The Role Master screen allows administrators to define and control various roles within the organization. It's used for managing role-based access and permissions.
+
+### Route Master
+
+![Route Master](Screen-shots/route_master.jpg)
+
+*Description*: In this screenshot, the Route Master screen is displayed. It's used to manage and configure visitor routes and paths within the premises.
+
+### Employee Master
+
+![Employee Master](Screen-shots/employee_master.jpg)
+
+*Description*: The Employee Master screen, as depicted in the screenshot, is designed for managing employee information. Administrators can add, edit, and delete employee records.
+
+### Visitor List Master
+
+![Visitor List Master](Screen-shots/visitorlist_master.jpg)
+
+*Description*: The Visitor List Master screen is used to maintain a list of authorized visitors. Administrators can control and monitor who is allowed access.
+
+### Department Master
+
+![Department Master](Screen-shots/department_master.jpg)
+
+*Description*: This screenshot presents the Department Master screen. It's used for managing various departments within the organization.
+
+### City Master
+
+![City Master](Screen-shots/city_master.jpg)
+
+*Description*: The City Master screen allows administrators to maintain a list of cities or urban areas. It's useful for associating cities with states and countries.
+
+
+## Description
+ The City Master screen allows administrators to maintain a list of cities or urban areas. It's useful for associating cities with states and countries.
+
